@@ -1,5 +1,7 @@
 # slock-kostas
 
+***Newpatch*** branch is used for applying new patches to `slock` before merging them to the main branch. It's primary used as a fail-safe in case of errors.
+
 Table of Contents
 =================
 * [Slock Kostas](#slock-kostas)
